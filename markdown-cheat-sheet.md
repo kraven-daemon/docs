@@ -1,60 +1,34 @@
-# Markdown Cheat Sheet
+## Markdown Cheat Sheet
 
-Thanks for visiting [The Markdown Guide](https://www.markdownguide.org)!
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+**bold** __text__
+*italic*  *text*
+---***___ horizontal rule
 
-This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for [basic syntax](https://www.markdownguide.org/basic-syntax) and [extended syntax](https://www.markdownguide.org/extended-syntax).
-
-
-
-### Heading
-
-# H1
-## H2
-### H3
-
-### Bold
-
-**bold text**
-
-### Italic
-
-*italicized text*
-
-### Blockquote
-
+Nestable
 > blockquote
+* bullet
+- point
++ list
+1. numbered list
+`inline code`
+```syntaxHighlightingInGFM
 
-### Ordered List
+```
 
-1. First item
-2. Second item
-3. Third item
+Links (titles optional)
+[useless website](https://theuselessweb.com/ "mouse hint hover") <br>
+[Take me to a useless website][useless]
+... later
+... on the doc
+[useless]: https://theuselessweb.com/ "Useless Web"
 
-### Unordered List
-
-- First item
-- Second item
-- Third item
-
-### Code
-
-`code`
-
-### Horizontal Rule
-
----
-
-### Link
-
-[Markdown Guide](https://www.markdownguide.org)
-
-### Image
-
-![alt text](https://www.markdownguide.org/assets/images/tux.png)
-
-## Extended Syntax
-
-These elements extend the basic syntax by adding additional features. Not all Markdown applications support these elements.
+![squirrel thunder](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1fe0cfe9-7dee-42d8-9434-39df5f1e3196/d5ly006-f4e36cdb-098e-4b88-b040-89096b19da69.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFmZTBjZmU5LTdkZWUtNDJkOC05NDM0LTM5ZGY1ZjFlMzE5NlwvZDVseTAwNi1mNGUzNmNkYi0wOThlLTRiODgtYjA0MC04OTA5NmIxOWRhNjkuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.cj6uPF9ZwXEz4lHnt70XFJme432bI4X8gdsQQTdzw3Q)
 
 ### Table
 
@@ -63,15 +37,6 @@ These elements extend the basic syntax by adding additional features. Not all Ma
 | Header | Title |
 | Paragraph | Text |
 
-### Fenced Code Block
-
-```
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-```
 
 ### Footnote
 
@@ -82,8 +47,6 @@ Here's a sentence with a footnote. [^1]
 ### Heading ID
 
 ### My Great Heading {#custom-id}
-
-### Definition List
 
 term
 : definition

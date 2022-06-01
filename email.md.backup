@@ -1,6 +1,6 @@
-## Email related stuff
+## mail related stuff
 
-#### Mail server, using smtp protocol
+Mail server, using smtp protocol
 also known as MTA : Mail transfer agent
  - When you have multiple email address you want to merge
  - When you just want to admin you own email server

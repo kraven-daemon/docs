@@ -1,0 +1,11 @@
+wget -mkEpnp 
+
+wget \
+     --recursive \ 
+     --page-requisites \ 
+     --adjust-extension \ 
+     --span-hosts \ 
+     --convert-links \ 
+     --domains yoursite.com \ 
+     --no-parent \ 
+         yoursite.com/whatever/path
