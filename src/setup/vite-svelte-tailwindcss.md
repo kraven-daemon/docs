@@ -1,6 +1,14 @@
 # Vite svelte and tailwindcss
 
-Introduction
+### As client
+
+Basic
+```
+npm create vite@latest client -- --template svelte
+cd client
+npm install
+npm run dev
+```
 
 Steps
 

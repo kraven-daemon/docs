@@ -20,7 +20,7 @@ The install script will modify the first writable file from amongst
     .bash_profile,
     .bash_login or
     .profile
-    -> to
+    -> tonixos.jdk18_headless
     source ~/.nix-profile/etc/profile.d/nix.sh
 You can set the NIX_INSTALLER_NO_MODIFY_PROFILE environment variable before executing the install script to disable this behaviour.
 
@@ -104,6 +104,7 @@ nix is a wrapper used to simplify using nix-toolofsomesort
 
 nix-env -q // q:query installed packages
         -qa some-package // qa: query from available(from channels)
+        -qaP some-package // qa: query from available with Pkgs Path for use with -iA
         -qaf /path/to/nixExpression  // qaf: querie
            The default is ~/.nix-defexpr. and point to the channels
            If the argument starts with http:// or https://,
