@@ -1,0 +1,153 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/kraven/repos/docs/src/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+2 img at a time, computed recursively, with Straight alpha model	graphics.md	/^    2 img at a time, computed recursively, with Straight alpha model$/;"	s	chapter:Alpha Blending
+2D	graphics.md	/^## 2D$/;"	s	chapter:Transformation
+About channels	nix.md	/^## About channels$/;"	s	chapter:Package Management
+About profile	nix.md	/^# About profile$/;"	c
+Affine transformations	graphics.md	/^### Affine transformations$/;"	S	section:Transformation""2D
+Alpha Blending	graphics.md	/^# Alpha Blending$/;"	c
+Alpha types	graphics.md	/^# Alpha types$/;"	c
+Android with kotlin	android-kotlin.md	/^### Android with kotlin$/;"	S
+Blending modes	graphics.md	/^# Blending modes$/;"	c
+Booting	boot.md	/^# Booting$/;"	c
+Bootloaders	boot.md	/^### Bootloaders$/;"	S	section:Booting""step 1
+Channels, for update	nixos.md	/^### Channels, for update$/;"	S	section:Nixos""Update
+Clamping	graphics.md	/^## Clamping$/;"	s	chapter:Blending modes
+Cloud, tunnel with ssh : local port 3337 -> remote host 127.0.0.1 on port 6379	shell/extras.md	/^# Cloud, tunnel with ssh : local port 3337 -> remote host 127.0.0.1 on port 6379$/;"	c
+Comparison : Dynamic sequence operations problem	algorythms.md	/^### Comparison : Dynamic sequence operations problem$/;"	S
+Configuration	nixos.md	/^### Configuration$/;"	S	section:Nixos""Update
+Derivation	nix.md	/^## Derivation$/;"	s	chapter:NIX EXPRESSION/PKGS
+Derivations	nixlang.md	/^## Derivations$/;"	s	chapter:Languages
+Different types of shells	shell/preamble.md	/^## Different types of shells$/;"	s
+Email related stuff	email.md	/^## Email related stuff$/;"	s
+Emoji	markdown-cheat-sheet.md	/^### Emoji$/;"	S	section:Heading 1""Heading 2
+FILES	android-kotlin.md	/^### FILES$/;"	S
+Footnote	markdown-cheat-sheet.md	/^### Footnote$/;"	S	section:Heading 1""Heading 2
+From old to newest	shell/preamble.md	/^### From old to newest$/;"	S	section:Different types of shells
+Frontend	frontend/frontend.md	/^# Frontend$/;"	c
+Functions	nixlang.md	/^## Functions$/;"	s	chapter:Languages
+Further crazy	database/design.md	/^### Further crazy$/;"	S	section:Generic relational databases design recommendation
+Gamma => &gamma	graphics.md	/^# Gamma => &gamma$/;"	c
+Garbage	nix.md	/^## Garbage$/;"	s	chapter:About profile
+Generation	nix.md	/^## Generation$/;"	s	chapter:About profile
+Generic relational databases design recommendation	database/design.md	/^## Generic relational databases design recommendation$/;"	s
+Gereric gitlab repo :	xdg.md	/^### Gereric gitlab repo : $/;"	S	section:X Desktop Group specification""X11 and application shareable data
+Heading 1	markdown-cheat-sheet.md	/^# Heading 1$/;"	c
+Heading 2	markdown-cheat-sheet.md	/^## Heading 2$/;"	s	chapter:Heading 1
+Heading 3	markdown-cheat-sheet.md	/^### Heading 3$/;"	S	section:Heading 1""Heading 2
+Heading 4	markdown-cheat-sheet.md	/^#### Heading 4$/;"	t	subsection:Heading 1""Heading 2""Heading 3
+Heading 5	markdown-cheat-sheet.md	/^##### Heading 5$/;"	T	subsubsection:Heading 1""Heading 2""Heading 3""Heading 4
+Heading 6	markdown-cheat-sheet.md	/^###### Heading 6$/;"	u	l4subsection:Heading 1""Heading 2""Heading 3""Heading 4""Heading 5
+Heading ID	markdown-cheat-sheet.md	/^### Heading ID$/;"	S	section:Heading 1""Heading 2
+Highlight	markdown-cheat-sheet.md	/^### Highlight$/;"	S	section:Heading 1""Heading 2
+Homogeneous Coordinates	graphics.md	/^# Homogeneous Coordinates$/;"	c
+I've found this inside the nix manual and could not explain it better.	nix.md	/^### I've found this inside the nix manual and could not explain it better.$/;"	S	section:This is probably the most accurate global summary of what is nix
+Install	nix.md	/^## Install$/;"	s	chapter:Second, basic operation
+Installing	nix.md	/^# Installing$/;"	c
+Interface to DS	algorythms.md	/^### Interface to DS$/;"	S
+Interface vs Data Structure	algorythms.md	/^### Interface vs Data Structure$/;"	S
+Introduction	SUMMARY.md	/^### Introduction$/;"	S	chapter:Summary
+Introduction	introduction.md	/^# Introduction$/;"	c
+Languages	languages/languages.md	/^# Languages$/;"	c
+Languages	nixlang.md	/^# Languages$/;"	c
+Linked list	algorythms.md	/^#### Linked list$/;"	t	subsection:Comparison : Dynamic sequence operations problem
+List	nixlang.md	/^## List$/;"	s	chapter:Languages
+Mail server, using smtp protocol	email.md	/^#### Mail server, using smtp protocol$/;"	t	section:Email related stuff
+Markdown Cheat Sheet	markdown-cheat-sheet.md	/^## Markdown Cheat Sheet$/;"	s
+My Great Heading {#custom-id}	markdown-cheat-sheet.md	/^### My Great Heading {#custom-id}$/;"	S	section:Heading 1""Heading 2
+NIX EXPRESSION/PKGS	nix.md	/^# NIX EXPRESSION\/PKGS$/;"	c
+NPM	frontend/npm/npm.md	/^# NPM$/;"	c
+Nixos	nixos.md	/^# Nixos$/;"	c
+Normalizing	graphics.md	/^## Normalizing$/;"	s	chapter:Blending modes
+Notorious tim pope https://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html	git_commit.md	/^### Notorious tim pope https:\/\/tbaggery.com\/2008\/04\/19\/a-note-about-git-commit-messages.ht/;"	S
+Over ssh, copy or serve	nix.md	/^### Over ssh, copy or serve$/;"	S	section:About profile""Serving your nix-store
+Overall assessment	database/design.md	/^### Overall assessment$/;"	S	section:Generic relational databases design recommendation
+PPP ? PPTP ? , skipping	utilities.md	/^##### PPP ? PPTP ? , skipping$/;"	T	section:https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/Networking""if it fails do manual configuration
+Package Management	nix.md	/^# Package Management$/;"	c
+Packaging differences	nixos.md	/^### Packaging differences$/;"	S	section:Nixos""Update
+Posix	shell/posix.md	/^## Posix$/;"	s
+Preview	nix.md	/^## Preview$/;"	s	chapter:Second, basic operation
+Probleme: Dynamic sequence (interface)	algorythms.md	/^#### Probleme: Dynamic sequence (interface)$/;"	t	subsection:Interface to DS
+Probleme: Static sequence (interface)	algorythms.md	/^#### Probleme: Static sequence (interface)$/;"	t	subsection:Interface to DS
+Queries	nix.md	/^## Queries$/;"	s	chapter:Second, basic operation
+Recap	database/design.md	/^##### Recap$/;"	T	subsection:Generic relational databases design recommendation""Steps
+Remove	nix.md	/^## Remove$/;"	s	chapter:Second, basic operation
+Reserved Word Statement	nixlang.md	/^## Reserved Word Statement$/;"	s	chapter:Languages
+Second, basic operation	nix.md	/^# Second, basic operation$/;"	c
+Sections	frontend/frontend.md	/^## Sections$/;"	s	chapter:Frontend
+Serve over http	nix.md	/^### Serve over http$/;"	S	section:About profile""Serving your nix-store
+Serving your nix-store	nix.md	/^## Serving your nix-store$/;"	s	chapter:About profile
+Sets	nixlang.md	/^## Sets$/;"	s	chapter:Languages
+Setup	setup/setup.md	/^# Setup$/;"	c
+Shell(modern) builtin, bash|zsh|mksh	shell/extras.md	/^# Shell(modern) builtin, bash|zsh|mksh$/;"	c
+Solution: Dynamic arrays (aka python's interpreter's lists )	algorythms.md	/^#### Solution: Dynamic arrays (aka python's interpreter's lists )$/;"	t	subsection:Comparison : Dynamic sequence operations problem
+Solution: Static array (DS)	algorythms.md	/^#### Solution: Static array (DS)$/;"	t	subsection:Interface to DS
+Solution: linked lists	algorythms.md	/^#### Solution: linked lists$/;"	t	subsection:Interface to DS
+Sound	xdg.md	/^### Sound$/;"	S	section:X Desktop Group specification""X11 and application shareable data
+Splash screen	boot.md	/^### Splash screen$/;"	S	section:Booting""step 1
+Static array	algorythms.md	/^#### Static array$/;"	t	subsection:Comparison : Dynamic sequence operations problem
+Steps	database/design.md	/^### Steps$/;"	S	section:Generic relational databases design recommendation
+Strikethrough	markdown-cheat-sheet.md	/^### Strikethrough$/;"	S	section:Heading 1""Heading 2
+Subscript	markdown-cheat-sheet.md	/^### Subscript$/;"	S	section:Heading 1""Heading 2
+Summary	SUMMARY.md	/^# Summary$/;"	c
+Superscript	markdown-cheat-sheet.md	/^### Superscript$/;"	S	section:Heading 1""Heading 2
+Table	markdown-cheat-sheet.md	/^### Table$/;"	S	section:Heading 1""Heading 2
+Task List	markdown-cheat-sheet.md	/^### Task List$/;"	S	section:Heading 1""Heading 2
+The SVD principle	graphics.md	/^## The SVD principle$/;"	s	chapter:Transformation
+This is probably the most accurate global summary of what is nix	nix.md	/^## This is probably the most accurate global summary of what is nix$/;"	s
+Transformation	graphics.md	/^# Transformation$/;"	c
+Uninstall	nix.md	/^# Uninstall$/;"	c
+Uninstall	nix.md	/^## Uninstall$/;"	s	chapter:Second, basic operation
+Update	nixos.md	/^## Update$/;"	s	chapter:Nixos
+Updating nix	nix.md	/^# Updating nix$/;"	c
+Upgrade and rollback	nix.md	/^## Upgrade and rollback$/;"	s	chapter:Second, basic operation
+User's env	nix.md	/^## User's env$/;"	s	chapter:About profile
+VERY usefull for accessing private ressources on a cloud server with exposing the port publicly	shell/extras.md	/^## VERY usefull for accessing private ressources on a cloud server with exposing the port public/;"	s	chapter:Cloud, tunnel with ssh : local port 3337 -> remote host 127.0.0.1 on port 6379
+Variables	nixlang.md	/^## Variables$/;"	s	chapter:Languages
+Vite svelte and tailwindcss	setup/vite-svelte-tailwindcss.md	/^# Vite svelte and tailwindcss$/;"	c
+What you get	nix.md	/^# What you get$/;"	c
+Wrapping	graphics.md	/^## Wrapping$/;"	s	chapter:Blending modes
+X Desktop Group specification	xdg.md	/^# X Desktop Group specification$/;"	c
+X11 and application shareable data	xdg.md	/^## X11 and application shareable data$/;"	s	chapter:X Desktop Group specification
+boot	boot.md	/^#### boot$/;"	t	subsection:Booting""step 1""Splash screen
+create a ramdisk for tmp IO	shell/extras.md	/^# create a ramdisk for tmp IO$/;"	c
+css	frontend/css/css.md	/^# css$/;"	c
+css	languages/css/css.md	/^# css$/;"	c
+css	languages/html/css.md	/^# css$/;"	c
+dhcp	utilities.md	/^##### dhcp$/;"	T	section:https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/Networking""if it fails do manual configuration
+disown -a	shell/extras.md	/^# disown -a$/;"	c
+docs	README.md	/^# docs$/;"	c
+dont record cmd in history(add a space before cmd)	shell/extras.md	/^# dont record cmd in history(add a space before cmd)$/;"	c
+ethernet	utilities.md	/^##### ethernet$/;"	T	section:https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/Networking""if it fails do manual configuration
+gamma correction	graphics.md	/^## gamma correction$/;"	s	chapter:Gamma => &gamma
+general encryption	security/encryption.md	/^### general encryption$/;"	S
+general status	utilities.md	/^##### general status$/;"	T	section:https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/Networking""if it fails do manual configuration
+html	frontend/html/html.md	/^# html$/;"	c
+html	languages/html/html.md	/^# html$/;"	c
+https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/Networking	utilities.md	/^# https:\/\/wiki.gentoo.org\/wiki\/Handbook:AMD64\/Installation\/Networking$/;"	c
+if it fails do manual configuration	utilities.md	/^## if it fails do manual configuration$/;"	s	chapter:https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/Networking
+img1 over img2	graphics.md	/^## img1 over img2 $/;"	s	chapter:Alpha Blending
+info : https://specifications.freedesktop.org/sound-theme-spec/latest/index.html	xdg.md	/^#### info : https:\/\/specifications.freedesktop.org\/sound-theme-spec\/latest\/index.html$/;"	t	subsection:X Desktop Group specification""X11 and application shareable data""Sound
+kernel side	utilities.md	/^##### kernel side$/;"	T	section:https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/Networking""if it fails do manual configuration
+kernel(linux)	boot.md	/^#### kernel(linux)$/;"	t	subsection:Booting""step 1""Splash screen
+nix-env or nix	nix.md	/^## nix-env or nix$/;"	s	chapter:Second, basic operation
+node	frontend/node/node.md	/^# node$/;"	c
+options	tmux.md	/^## options$/;"	s
+password enforcer utility	security/encryption.md	/^### password enforcer utility$/;"	S
+password manager	security/encryption.md	/^### password manager$/;"	S
+redo last command, as root	shell/extras.md	/^# redo last command, as root$/;"	c
+src  : https://gitlab.freedesktop.org/xdg/sound-theme-spec	xdg.md	/^#### src  : https:\/\/gitlab.freedesktop.org\/xdg\/sound-theme-spec$/;"	t	subsection:X Desktop Group specification""X11 and application shareable data""Sound
+step 1	boot.md	/^## step 1$/;"	s	chapter:Booting
+transfer last cmd as a string buffer into $EDITOR	shell/extras.md	/^## transfer last cmd as a string buffer into $EDITOR$/;"	s	chapter:Shell(modern) builtin, bash|zsh|mksh
+userspace	boot.md	/^#### userspace$/;"	t	subsection:Booting""step 1""Splash screen
+wifi connect	utilities.md	/^##### wifi connect$/;"	T	section:https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/Networking""if it fails do manual configuration
+wifi data	utilities.md	/^##### wifi data$/;"	T	section:https://wiki.gentoo.org/wiki/Handbook:AMD64/Installation/Networking""if it fails do manual configuration
